@@ -1,0 +1,10 @@
+torch
+numpy
+gym
+mo-gymnasium
+matplotlib
+seaborn
+scipy
+deap
+pygmo
+pymoo 
