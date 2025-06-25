@@ -2,6 +2,8 @@
 
 An implementation of Preference-Conditioned Reinforcement Learning with PreCo for Multi-Objective RL.
 
+[Paper Link](https://openreview.net/pdf?id=49g4c8MWHy)
+
 ## Installation
 
 ```bash
