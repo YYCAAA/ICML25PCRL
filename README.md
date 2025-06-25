@@ -14,6 +14,12 @@ pip install -r requirements.txt
 python -m main.run/run_Reacher --seed 1 --r 6 --m PreCo
 ```
 
+For off-policy implementation with HER
+```bash
+cd Offpolicy_with_sample_efficiency_techniques/
+python off_policy_preco_reacher.py
+```
+
 ## Project Structure
 
 - `agent/` : Agent, models, buffer, min-norm solver
